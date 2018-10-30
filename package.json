@@ -1,0 +1,16 @@
+{
+  "name": "webpack-4-tutorial",
+  "version": "1.0.0",
+  "description": "My first time making module bundler using webpack 4",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr.Worldwide",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
